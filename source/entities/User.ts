@@ -2,7 +2,7 @@ import { randomUUID } from 'crypto'
 
 export default class User {
     id: string
-    name: string;
+    name: string
     email: string
 
     constructor () {
